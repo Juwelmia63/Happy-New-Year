@@ -30,3 +30,142 @@
     text-align: center;
     border-radius: 16px;
 }
+
+
+
+.off {
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+    margin-bottom: 20px;
+
+}
+
+.description {
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+.catagories {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 0px;
+
+}
+
+.images {
+    margin: 0px auto;
+    width: 802.9px;
+
+
+}
+
+
+
+
+.wellcome {
+    color: white;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    padding-left: 130px;
+    padding-top: 130px;
+    margin-bottom: 0px;
+
+
+
+}
+
+
+.wellcomeone {
+    color: white;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    padding-left: 130px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.welcomedes {
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    padding-left: 130px;
+    padding-right: 30px;
+    margin-top: 5px;
+}
+
+.join {
+    color: white;
+    text-align: left;
+    font-size: 20px;
+    text-transform: uppercase;
+    padding-left: 130px;
+}
+
+.secondbanner {
+    width: 1320px;
+    height: 600px;
+    background-image: url("resources/Vectorrr.png");
+    margin: 0px auto;
+    display: flex;
+    margin-top: 120px;
+
+}
+
+.secondbanner-contant {
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+
+}
+
+.image-for {
+
+    width: 319.83px;
+    height: 464.662px;
+    padding-top: 100px;
+    padding-right: 150px;
+    display: flex;
+
+
+}
+
+.section-three {
+    width: 1320px;
+    height: 482px;
+    margin: 0px auto;
+    margin-top: 120PX;
+
+}
+
+.section-writing {
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+}
+
+.section-writing {
+    text-align: center;
+    padding-top: 100px;
+    padding-left: 350px;
+    padding-right: 350px;
+    font-size: 32px;
+}
+
+span {
+    color: #F00;
+}
+
+
+.btn {
+    border-radius: 8px;
+    background: #F00;
+    border: none;
+    padding: 16px 32px;
+    color: white;
+    font-size: 20px;
+    }
