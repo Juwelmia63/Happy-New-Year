@@ -168,4 +168,70 @@ span {
     padding: 16px 32px;
     color: white;
     font-size: 20px;
-    }
+}
+
+.eellipse {
+    width: 463px;
+    height: 463px;
+    border-radius: 463px;
+    border: 15px solid #F00;
+   
+} 
+
+.four-contant {
+    width: 1320px;
+    height: 482px;
+    margin: 0px auto;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 120px;
+}
+
+.four-first .first-title {
+    color: #F00;
+    text-align: left;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+.firt-main {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+
+}
+
+.firstdes {
+    color: black;
+    font-size: 20px;
+    width: 393px;
+
+}
+
+.four-second .main-image {
+    width: 364.844px;
+    height: 364.844px;
+}
+
+.tit {
+    color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+
+}
+
+.describ {
+    color: black;
+    width: 276px;
+    font-size: 20px;
+
+
+}
+
+.newyear {
+    width: 140px;
+    height: 140px;
+}
+
