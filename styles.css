@@ -170,13 +170,13 @@ span {
     font-size: 20px;
 }
 
-.eellipse {
+/* .eellipse {
     width: 463px;
     height: 463px;
     border-radius: 463px;
     border: 15px solid #F00;
    
-} 
+}  */
 
 .four-contant {
     width: 1320px;
@@ -235,3 +235,99 @@ span {
     height: 140px;
 }
 
+.holiday-sale. {
+    width: 1320px;
+    height: 5335px;
+
+}
+
+.top-text {
+    text-align: center;
+
+
+
+}
+
+.top {
+    color: #070211;
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+.top-two {
+    color: #F00;
+    font-size: 72px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+
+}
+
+.top-twotwo {
+    color: black;
+    font-size: 72px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+
+}
+
+.top-des {
+    /* width: 800px; */
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    padding-left: 600px;
+    padding-right: 600px;
+    margin-top: 0px;
+
+}
+
+/* portfolio */
+
+.porfolio {
+    width: 1320px;
+    height: 7335px;
+    background-color: white;
+    margin: 0px auto;
+    margin-top: 120px;
+   
+
+}
+
+.portfolio-text {}
+
+.gift {
+    color: #F00;
+    font-size: 24px;
+    margin-bottom: 5px;
+
+}
+
+.awsome {
+    color: #070211;
+    font-size: 48px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+
+}
+
+.portfolio-des {
+    width: 896px;
+    font-size: 20px;
+    color: black;
+    margin-top: 0px;
+}
+
+.images-section .portfolio-images {
+    width: 424px;
+    height: 450px;
+    
+}
+.images-section{
+    
+    display: flex;
+   
+}
+
+.images-section-two{
+    display: flex;
+}
