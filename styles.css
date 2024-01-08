@@ -1,0 +1,32 @@
+.banner {
+    width: 1320px;
+    height: 600px;
+    background-image: url("resources/Banner\ Image.png");
+    margin: 0px auto;
+
+}
+
+.banner-content .new-year {
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    padding-top: 170px;
+
+}
+
+.banner-content .celebration {
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    margin: 0;
+
+
+}
+
+.banner-content {
+    background-image: linear-gradient(180deg, #070211 0%, rgba(10, 5, 23, 0.00) 100%);
+    text-align: center;
+    border-radius: 16px;
+}
