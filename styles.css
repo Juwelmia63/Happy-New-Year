@@ -274,13 +274,14 @@ span {
 }
 
 .top-des {
-    /* width: 800px; */
+    width: 800px;
     color: black;
     font-size: 20px;
     text-align: center;
-    padding-left: 500px;
-    padding-right: 500px;
+    /* padding-left: 500px;
+    padding-right: 500px; */
     margin-top: 0px;
+    margin: 0px auto;
 
 }
 
@@ -407,8 +408,9 @@ span {
 
 .main-footer {
     width: 1600px;
-    /* height: 609px; */
-    background-color: black;
+    height: 609px;
+    background-color: black;    
+    margin: 0px auto;
     margin-top: 120px;
 
 
@@ -479,6 +481,6 @@ span {
     display: flex;
     justify-content: space-betweens;
     margin-top: 100px;
-    margin-bottom: 100px;
-    padding-top: 100px;
+    /* margin-bottom: 100px;
+    padding-top: 100px; */
 }
